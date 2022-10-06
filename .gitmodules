@@ -1,7 +1,3 @@
-[submodule "src/plugins/intel_cpu/thirdparty/onednn"]
-	path = src/plugins/intel_cpu/thirdparty/onednn
-	url = https://github.com/openvinotoolkit/oneDNN.git
-	ignore = dirty
 [submodule "thirdparty/xbyak"]
 	path = thirdparty/xbyak
 	url = https://github.com/herumi/xbyak.git
