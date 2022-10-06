@@ -63,3 +63,7 @@
 	path = thirdparty/json/nlohmann_json_schema_validator
 	url = https://github.com/pboettch/json-schema-validator.git
 	shallow = true
+[submodule "cpu-plugin"]
+	path = src/plugins/intel_cpu
+	url = ssh://git@b.yadro.com:7999/at/ov_cpu_risc_v_plugin.git
+	branch = releases/2022/2
